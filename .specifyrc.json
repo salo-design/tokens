@@ -4,7 +4,7 @@
   "base": "main",
   "rules": [
     {
-      "name": "Extract all tokens to JSON",
+      "name": "Extract all tokens to JSON, please work",
       "path": "./output/all-tokens.json",
       "parsers": []
     }
