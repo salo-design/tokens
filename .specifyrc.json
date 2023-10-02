@@ -5,7 +5,7 @@
   "rules": [
     {
       "name": "Extract all tokens to JSON",
-      "path": "./output/style-tokens.json",
+      "path": "./output/all-tokens.json",
       "parsers": []
     }
   ]
